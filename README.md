@@ -1,4 +1,4 @@
-# Ecommerce Analytics using Python and SQL.
+# Ecommerce Analytics using Python, SQL and Power-BI.
 ## Summary
 This project analyzes eCommerce data to understand customer behavior, sales trends, and business performance. Key tools like Python libraries (Pandas, Matplotlib, Seaborn) and MySQL were used to collect, clean, and visualize the data. The analysis included identifying popular products, sales by category, customer spending patterns, and overall revenue trends.
 ### The main steps included:
